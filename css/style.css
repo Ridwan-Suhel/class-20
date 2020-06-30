@@ -1,0 +1,12 @@
+.test .card{
+	overflow: hidden;
+}
+.test .card img{
+	transition: .5s;
+}
+.test .card:hover img{
+	transform: scale(1.1);
+}
+.carousel-indicators li{
+	background-color: #333;
+}
